@@ -11,15 +11,15 @@
 ## Known Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /><br />
-  ![Bash](https://progress-bar.dev/80/) <!-- Change percentage as needed -->
+  ![](https://progress-bar.dev/80/) <!-- Change percentage as needed -->
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" /><br />
-  ![C](https://progress-bar.dev/70/)
+  ![](https://progress-bar.dev/70/)
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /><br />
-  ![C++](https://progress-bar.dev/75/)
+  ![](https://progress-bar.dev/75/)
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /><br />
