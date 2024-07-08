@@ -1,9 +1,9 @@
 # <span>SRIVATSAN VENKATESH</span> <br><br><br> <span>Malware Analyst and Penetration Tester</span>
 
 
-
-<img src="https://github.com/T-cube2512/T-cube2512/blob/main/sku11.gif" width="400px" height="400px" />
-
+<p align="center">
+<img src="https://github.com/T-cube2512/T-cube2512/blob/main/sku11.gif" width="600px" height="400px" />
+</p>
 
 ## Description
 <p>Insert a brief description about yourself here.</p>
