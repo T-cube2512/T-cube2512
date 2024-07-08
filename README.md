@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></td>
-    <td><img src="https://progress-bar.dev/80/?scale=100&width=200&suffix=%" alt="Bash proficiency" /></td>
+    <td><img src="https://progress-bar.dev/90/?scale=100&width=200&suffix=%" alt="Bash proficiency" /></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" /></td>
@@ -24,15 +24,15 @@
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" /></td>
-    <td><img src="https://progress-bar.dev/65/?scale=100&width=200&suffix=%" alt="C# proficiency" /></td>
+    <td><img src="https://progress-bar.dev/85/?scale=100&width=200&suffix=%" alt="C# proficiency" /></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></td>
-    <td><img src="https://progress-bar.dev/70/?scale=100&width=200&suffix=%" alt="Java proficiency" /></td>
+    <td><img src="https://progress-bar.dev/75/?scale=100&width=200&suffix=%" alt="Java proficiency" /></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></td>
-    <td><img src="https://progress-bar.dev/85/?scale=100&width=200&suffix=%" alt="Python proficiency" /></td>
+    <td><img src="https://progress-bar.dev/80/?scale=100&width=200&suffix=%" alt="Python proficiency" /></td>
   </tr>
 </table>
 
