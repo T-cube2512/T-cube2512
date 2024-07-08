@@ -10,11 +10,7 @@
 
 ## Known Languages
 <p align="center">
-  <p align="left">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  </p> <p align="right">
-  <img src="https://img.shields.io/static/v1?label=&message=80%25&color=brightgreen&style=flat&logo=" alt="Bash proficiency" />
-  </p>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /> <img src="https://progress-bar.dev/80/?scale=100&width=200&suffix=%" alt="Bash proficiency" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/static/v1?label=&message=70%25&color=brightgreen&style=flat&logo=" alt="C proficiency" />
