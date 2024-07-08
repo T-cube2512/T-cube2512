@@ -12,8 +12,7 @@
 <p align="center">
   <p align="left">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  </p>
-  <p align="right">
+  </p> <p align="right">
   <img src="https://img.shields.io/static/v1?label=&message=80%25&color=brightgreen&style=flat&logo=" alt="Bash proficiency" />
   </p>
 </p>
