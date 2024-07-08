@@ -6,7 +6,7 @@
 </p>
 
 ## Description
-<p>I am a Self Learned Script Kiddie (recently turned to ** Malware Analyser and Penetration tester ** ) with Many other domain knowledge. Still pursuing the 4th year of the 4 years of Computer Science and Engineering program at my college, open to work in any contracts of Cyber Analysis and Penetration testing for now, and any jobs within or close to the IT domain</p>
+<p>I am a Self Learned Script Kiddie recently turned to **Malware Analyser and Penetration tester** with Many other domain knowledge. Still pursuing the 4th year of the 4 years of Computer Science and Engineering program at my college, open to work in any contracts of Cyber Analysis and Penetration testing for now, and any jobs within or close to the IT domain</p>
 
 ## Known Languages
 <table>
