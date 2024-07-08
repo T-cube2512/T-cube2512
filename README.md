@@ -1,5 +1,5 @@
 # ABOUT
-<p align="center"><span style="font-size:4em;">SRIVATSAN VENKATESH</span> <br><br> <span style="font-size:small;">Malware Analyst and Penetration Tester</span></p>
+<p align="center"><span style="font-size:40em;">SRIVATSAN VENKATESH</span> <br><br> <span style="font-size:small;">Malware Analyst and Penetration Tester</span></p>
 
 
 <p align="center">
