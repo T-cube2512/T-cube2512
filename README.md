@@ -1,5 +1,4 @@
-# <p align="center"><span>SRIVATSAN VENKATESH</span> <br><br> 
-### <span style="font-size:0.5em;">Malware Analyst and Penetration Tester</span></p>
+<p align="center"><span style="font-size:large;">SRIVATSAN VENKATESH</span> <br><br> <span style="font-size:small;">Malware Analyst and Penetration Tester</span></p>
 
 
 <p align="center">
