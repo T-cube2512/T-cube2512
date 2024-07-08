@@ -1,5 +1,5 @@
-# <span style="font-family: 'VT323', monospace; font-size: 4em;">SRIVATSAN VENKATESH</span>
-<span style="font-family: 'VT323', monospace; font-size: 1.5em;">Malware Analyst and Penetration Tester</span>
+# <span style="font-family: 'VT323', monospace; font-size: 4em;">SRIVATSAN VENKATESH</span> <span style="font-family: 'VT323', monospace; font-size: 1.5em;">Malware Analyst and Penetration Tester</span>
+
 
 
 ![](https://github.com/T-cube2512/T-cube2512/blob/main/sku11.gif)
