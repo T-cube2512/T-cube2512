@@ -37,8 +37,9 @@
 </table>
 
 ## Website
-[Visit my website](http://www.dummywebsite.com)
+currently under development
+<!-- [Visit my website](http://www.dummywebsite.com)-->
 
 ## Contacts
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- Email: yourname@example.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/srivatsan-venkatesh)
+- Email: srivenk03@gmail.com
