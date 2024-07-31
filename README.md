@@ -41,5 +41,5 @@ currently under development
 <!-- [Visit my website](http://www.dummywebsite.com)-->
 
 ## Contacts
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/srivatsan-venkatesh)
-- Email: srivenk03@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/srivatsan-venkatesh)
+- [Email](mailto:srivenk03@gmail.com)
