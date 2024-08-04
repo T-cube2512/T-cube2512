@@ -1,4 +1,4 @@
-<img src="https://github.com/T-cube2512/T-cube2512/blob/main/n4m3.gif" />
+<img src="https://github.com/T-cube2512/T-cube2512/blob/main/n4m3.gif" width="618px" height="237px" />
 
 
 <p align="center">
