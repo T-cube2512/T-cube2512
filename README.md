@@ -1,10 +1,7 @@
-<p>
-<img src="https://github.com/T-cube2512/T-cube2512/blob/main/n4m3.gif" width="618px" height="237px" />
+<p align="center">
+<img src="https://github.com/T-cube2512/T-cube2512/blob/main/N4m3.gif" width="618px" height="237px" />
 </p>
 
-<p align="center">
-<img src="https://github.com/T-cube2512/T-cube2512/blob/main/sku11.gif" width="500px" height="400px" />
-</p>
 
 ## Description
 <p>I am a Self Learned Script Kiddie recently turned to <b>Malware Analyser and Penetration tester</b> with Many other domain knowledge. Still pursuing the 4th year of the 4 years of Computer Science and Engineering program at my college, open to work in any contracts of Cyber Analysis and Penetration testing for now, and any jobs within or close to the IT domain</p>
