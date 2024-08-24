@@ -35,8 +35,7 @@
 </table>
 
 ## Website
-currently under development
-<!-- [Visit my website](http://www.dummywebsite.com)-->
+[Visit my website]([https://t-cube2512.github.io/])
 
 ## Contacts
 - [LinkedIn](https://www.linkedin.com/in/srivatsan-venkatesh)
