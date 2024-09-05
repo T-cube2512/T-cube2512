@@ -35,7 +35,7 @@
 </table>
 
 ## Website
-[Visit my website](https://t-cube2512.github.io/)
+[Visit my website](https://tcube2512.vercel.app/)
 
 ## Contacts
 - [LinkedIn](https://www.linkedin.com/in/srivatsan-venkatesh)
