@@ -37,6 +37,10 @@
 ## Website
 [Visit my website](https://tcube2512.vercel.app/)
 
+## Daily.Dev
+
+<a href="https://app.daily.dev/tcube2512"><img src="https://api.daily.dev/devcards/v2/s309mrZM7uPjBfr0xNoE1.png?type=wide&r=jx9" width="652" alt="Srivatsan's Dev Card"/></a>
+
 ## Contacts
 - [LinkedIn](https://www.linkedin.com/in/srivatsan-venkatesh)
 - [Email](mailto:srivenk03@gmail.com)
