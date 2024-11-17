@@ -12,7 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=T-cube2512&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Mah%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=T-cube2512&theme=github-dark-dimmed&custom_title=Github%20Activity" height="150" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=T-cube2512&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=T-cube2512&theme=darkhub" height="150" alt="trophy graph"  />
 </div>
 
 ###
